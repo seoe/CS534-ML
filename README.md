@@ -1,6 +1,6 @@
 Team members:
 * Jialin Yuan
-* Eugene Soe  
+* Eugene Seo  
 * Kaibo Liu
 
 Homeworks:
